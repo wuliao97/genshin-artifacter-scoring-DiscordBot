@@ -5,7 +5,6 @@
 ## 必須 required
 - https://github.com/UB-Mannheim/tesseract/wiki/
 
-↑ just for me
 
 ```py
 import re
